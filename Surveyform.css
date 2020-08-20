@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 233, 232);
+    font-family: 'Anaheim', sans-serif;
+}
+.margin-line{
+    background: rgb(71, 101, 134);
+    width: 70%;
+    height: 1300px;
+    display: inline-block;
+}
+.form{
+    margin: 50px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: start;
+    
+}
+
+input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    resize: vertical;
+}
+
+input[type=number]{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+#submit{
+    text-align: center;
+}
