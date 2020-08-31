@@ -1,6 +1,6 @@
 # Survey Form
 
-[![Technical Documentation Page](https://img.shields.io/badge/freecodecamp-survey--form-green)](https://codepen.io/rafael-mendoza/full/rQoRaq) [![CSS-GRID](https://img.shields.io/badge/CSS-GRID-blue)](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[![Technical Documentation Page](https://img.shields.io/badge/freecodecamp-survey--form-green)](https://codepen.io/rafael-mendoza/full/rQoRaq) [![HTML-CSS](https://img.shields.io/badge/CSS-GRID-blue)](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 > A project from Freecodecamp Responsive Web Design Certification Build a Technical Documentation Page Project. i created a simple Survey Form project
 
